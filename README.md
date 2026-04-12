@@ -16,6 +16,7 @@ O  projeto  deve  ser  reprodutível,  auditável  e  seguir  as  melhores prát
 ## Arquitetura
 
 
+
 ## Pré-requisitos
 
 1. Python;
@@ -27,12 +28,11 @@ O  projeto  deve  ser  reprodutível,  auditável  e  seguir  as  melhores prát
 
 ## Instalação e Setup
 
-
-## Como executar:
+### Como executar:
 
 1. Clone o repositório
 ```
-git clone https://
+git clone https://github.com/DeyvedAntonio/projeto-churn-dvc
 ```
 
 2. Instale as dependências
